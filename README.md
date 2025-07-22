@@ -61,7 +61,10 @@ breast_cancer_logistic_regression.ipynb — Main notebook with all steps (EDA, p
 
 requirements.txt — Python dependencies.
 
-👨‍💻 Author
+## 👨‍💻 Author
+
 Yoseph Negash
+
 📧 yosephn22@gmail.com
+
 📅 2025
