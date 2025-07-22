@@ -48,8 +48,8 @@ Example of confusion matrix for the test set:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/breast-cancer-logistic-regression.git
-cd breast-cancer-logistic-regression
+git clone https://github.com/yourusername/CodeAlpha_breast-cancer-logistic-regression.git
+cd CodeAlpha_breast-cancer-logistic-regression
  ```
 2. **Install dependencies:**:   
 ```commandline
