@@ -38,7 +38,7 @@ You can download it manually from the [dataset link](https://www.kaggle.com/data
 ## 📈 Confusion Matrix
 Example of confusion matrix for the test set:
 
-![Confusion Matrix](images/confusion_matrix.png)
+<img src="images/confusion_matrix.png" alt="Confusion Matrix" width="400">
 
 ---
 
