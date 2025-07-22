@@ -6,8 +6,8 @@ This project uses the **Breast Cancer Wisconsin (Diagnostic) Dataset** to predic
 
 ## 📊 Dataset
 
-- **Source:** [Breast Cancer Wisconsin (Diagnostic) Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
-- **Features:** Computed from digitized images of a fine needle aspirate (FNA) of breast mass, describing characteristics of the cell nuclei.
+- **Source:** [Breast Cancer Wisconsin (Diagnostic) Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)  
+- **Features:** Computed from digitized images of a fine needle aspirate (FNA) of breast mass, describing characteristics of the cell nuclei.  
 - **Classes:**  
   - `M` → Malignant  
   - `B` → Benign  
@@ -30,20 +30,20 @@ You can download it manually from the [dataset link](https://www.kaggle.com/data
 
 3. **Evaluation**
    - **Accuracy:** `0.98`  
-   - **Classification Report:** Precision, Recall, F1-score metrics included.
+   - **Classification Report:** Precision, Recall, F1-score metrics included.  
    - **Confusion Matrix:** Visualized with Seaborn heatmap.
 
 ---
 
 ## 📈 Confusion Matrix
+
 Example of confusion matrix for the test set:
 
 <img src="images/confusion_matrix.png" alt="Confusion Matrix" width="400">
 
 ---
 
-
-### Installation
+## ⚙️ Installation
 
 1. Clone the repo:
 
