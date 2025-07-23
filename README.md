@@ -57,9 +57,13 @@ pip install -r requirements.txt
 ```
 📂 Files in This Repo
 
-breast_cancer_logistic_regression.ipynb — Main notebook with all steps (EDA, preprocessing, modeling).
+- breast_cancer_logistic_regression.ipynb
 
-requirements.txt — Python dependencies.
+- breast_cancer_model.joblib
+
+- Main notebook with all steps (EDA, preprocessing, modeling).
+
+- requirements.txt — Python dependencies.
 
 ## 👨‍💻 Author
 
